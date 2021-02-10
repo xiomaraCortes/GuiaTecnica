@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-02-10T02:39:17" hostname="DESKTOP-4D24FIL" time="0.04">
+  <properties/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="0.04">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@41478131
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6d9a5570
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@665d29ae
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for a automation course:Given :Maria wants to learn from the resource automation course
+| strUser | strPassword |
+| TuUsuario | TuClave |, When :She after searching in the browser for the choucair academy look in the categories bancolombia automation resources
+| strUser |
+| Metodologia Bancolombia |, Then : she verifies that the title of the page is bancolombia automation resources
+| StrCourse |
+| Metodologia Bancolombia |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for a automation course:Given :Maria wants to learn from the resource automation course
+| strUser | strPassword |
+| TuUsuario | TuClave |, When :She after searching in the browser for the choucair academy look in the categories bancolombia automation resources
+| strUser |
+| Metodologia Bancolombia |, Then : she verifies that the title of the page is bancolombia automation resources
+| StrCourse |
+| Metodologia Bancolombia |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for a automation course:Given :Maria wants to learn from the resource automation course
+| strUser | strPassword |
+| TuUsuario | TuClave |, When :She after searching in the browser for the choucair academy look in the categories bancolombia automation resources
+| strUser |
+| Metodologia Bancolombia |, Then : she verifies that the title of the page is bancolombia automation resources
+| StrCourse |
+| Metodologia Bancolombia |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Search for a automation course
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
