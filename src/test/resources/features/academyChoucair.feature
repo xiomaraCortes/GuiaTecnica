@@ -16,5 +16,3 @@
           | StrCourse  |
           | Metodologia Bancolombia|
 
-        Examples:
-          | strUser  | strPassword | strCourse |
